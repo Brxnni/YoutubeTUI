@@ -17,3 +17,7 @@ Others:
 | - | - | - |
 | V1 | 08 Jun 2022 | Basic functionality with videos |
 | V2 | Planned | Playlist support |
+
+# How to use
+- Install all dependencies
+- Run `main.py`
